@@ -65,7 +65,9 @@ Here's a snapshot of my contributions and learning journey on GitHub:
 
 #### 📌 Contribution Streak  
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akash1723tripathi&" alt="github-streak" />
+  <img 
+  src="https://streak-stats.demolab.com?user=akash1723tripathi&theme=radical" 
+/>
 </p>
 
 ---
