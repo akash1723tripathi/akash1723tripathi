@@ -18,32 +18,6 @@ I'm a passionate developer focused on building **scalable, user-first web applic
 - 💡 Love solving problems through code & systems thinking  
 - 📫 Reach me: **akashtripathi.acad@gmail.com**
 
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-  
-  <a href="https://linkedin.com/in/akash-tripathi-b18901263" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
-  </a>
-  
-  <a href="https://instagram.com/akashh_tripathi" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" height="40"/>
-  </a>
- 
-</p>
-
----
-
-## 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,python,mysql,mongodb,git,github,vercel" />
-</p>
-
----
-
 ## 👨‍💻 Coding Profiles
 <p align="center">
   <!-- LeetCode -->
@@ -64,6 +38,13 @@ I'm a passionate developer focused on building **scalable, user-first web applic
 
 ---
 
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,python,mysql,mongodb,git,github,vercel" />
+</p>
+
+---
 
 ## 📌 Featured Project — ChannelX
 
@@ -97,6 +78,23 @@ Building impact-driven software • Exploring intelligence in machines • Craft
 
 ## 🧩 Fun Fact  
 💭 I believe the best developers aren't the smartest ones—they’re the ones who keep improving every single day.
+
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  
+  <a href="https://linkedin.com/in/akash-tripathi-b18901263" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+  </a>
+  
+  <a href="https://instagram.com/akashh_tripathi" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" height="40"/>
+  </a>
+ 
+</p>
 
 <br/>
 
