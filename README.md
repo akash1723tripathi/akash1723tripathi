@@ -1,76 +1,103 @@
-<h1 align="center">नमस्ते (Namaste) 🙏, I'm Akash Tripathi</h1>
-<h3 align="center"> Developer | AI & ML Explorer</h3>
+<h1 align="center">नमस्ते (Namaste) 🙏, I'm <strong>Akash Tripathi</strong></h1>
+<h3 align="center">Developer • AI & ML Explorer • Web Enthusiast</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=akash1723tripathi&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" />
+  <img src="https://komarev.com/ghpvc/?username=akash1723tripathi&label=Profile%20Views&color=blueviolet&style=flat-square" />
 </p>
 
 ---
 
-### 👨‍💻 About Me
-Passionate about building **scalable, user-focused web applications** and continuously improving my skills.  
-- 🎓 **BTech CSE (Data Science)** student with a focus on full-stack web development.  
-- 🔭 Currently working on **ChannelX – a real-time chat application** to strengthen backend & frontend skills.  
-- 🌱 Learning **Next.js, Node.js, and modern web development best practices** to build production-ready apps.  
-- 💡 Exploring **AI/ML** for future data-driven projects.  
-- 📫 Reach me at: **[akashtripathi.acad@gmail.com](mailto:akashtripathi.acad@gmail.com)**  
+## 🚀 About Me
+
+I'm a passionate developer focused on building **scalable, user-first web applications** and exploring the exciting world of **AI & Machine Learning**.
+
+- 🎓 **B.Tech CSE (Data Science)**  
+- 🔭 Currently building **ChannelX — a real-time chat application**  
+- 🌱 Learning **Next.js, Node.js & scalable backend architecture**  
+- 🤖 Exploring **AI, ML, LLMs, Agents & RAG systems**  
+- 💡 Love solving problems through code & systems thinking  
+- 📫 Reach me: **akashtripathi.acad@gmail.com**
 
 ---
 
-### 🌐 Connect with Me
-Let's connect and collaborate on exciting web development projects, discuss ideas, or just share knowledge!  
-<p align="left">
-<a href="https://linkedin.com/in/akash-tripathi-b18901263" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
-<a href="https://kaggle.com/tripathi017akash" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" height="30" width="40" /></a>
-<a href="https://instagram.com/akashh_tripathi" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/_akash_tripathi_1723" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" /></a>
-</p>
+## 🌐 Connect With Me
 
----
-
-### 🛠️ Tech Stack
-Technologies and tools I use to bring ideas to life:  
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/></a>
-<a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/></a>
-<a href="https://nextjs.org/"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="40" height="40"/></a>
-<a href="https://nodejs.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/></a>
-<a href="https://expressjs.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" height="40"/></a>
-<a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/></a>
-<a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/></a>
-<a href="https://www.mongodb.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/></a>
-<a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/></a>
-</p>
-
----
-
-### 📊 GitHub Analytics  
-Here's a snapshot of my contributions and learning journey on GitHub:  
-
----
-
-#### 📌 Most Used Languages  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=akash1723tripathi&show_icons=true&locale=en&layout=compact" alt="top-langs" />
+  
+  <a href="https://linkedin.com/in/akash-tripathi-b18901263" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+  </a>
+  
+  <a href="https://instagram.com/akashh_tripathi" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" height="40"/>
+  </a>
+ 
 </p>
 
 ---
 
-#### 📌 GitHub Stats  
+## 🛠️ Tech Stack
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akash1723tripathi&show_icons=true&locale=en&theme=default" alt="github-stats" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,python,mysql,mongodb,git,github,vercel" />
 </p>
 
 ---
 
-#### 📌 Contribution Streak  
+## 👨‍💻 Coding Profiles
 <p align="center">
-  <img 
-  src="https://streak-stats.demolab.com?user=akash1723tripathi&theme=radical" 
-/>
+  <!-- LeetCode -->
+  <a href="https://leetcode.com/u/_AKASH_TRiPATHi_1723/" target="_blank">
+    <img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
+
+  <!-- HackerRank -->
+  <a href="https://www.hackerrank.com/profile/akashtripathi_a1" target="_blank">
+    <img alt="HackerRank" src="https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
+  </a>
+
+  <!-- GeeksforGeeks -->
+  <a href="https://www.geeksforgeeks.org/user/akash1723tripathi/" target="_blank">
+    <img alt="GfG" src="https://img.shields.io/badge/GeeksforGeeks-Profile-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+  </a>
 </p>
 
 ---
 
 
-<h4 align="center">🚀 Focused on building scalable web applications and continuously growing as a developer.</h4>
+## 📌 Featured Project — ChannelX
+
+A real-time chat application designed to enhance:  
+✔ Realtime communication (Socket.io)  
+✔ Optimized frontend (Next.js)  
+✔ Secure backend (Node.js + Express)  
+✔ Modern UI + UX  
+✔ Scalable architecture  
+
+> Project link can be added here once deployment is ready.
+
+---
+
+## 📊 GitHub Analytics
+
+### 🔥 Contribution Streak  
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=akash1723tripathi&theme=tokyonight" />
+</p>
+
+---
+
+## 🌟 Vision
+
+<h4 align="center">
+Building impact-driven software • Exploring intelligence in machines • Crafting scalable digital experiences
+</h4>
+
+---
+
+## 🧩 Fun Fact  
+💭 I believe the best developers aren't the smartest ones—they’re the ones who keep improving every single day.
+
+<br/>
+
+<p align="center"><b>✨ Thank you for visiting my profile! ✨</b></p>
