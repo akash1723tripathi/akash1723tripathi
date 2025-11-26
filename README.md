@@ -55,7 +55,7 @@ A real-time chat application designed to enhance:
 ✔ Modern UI + UX  
 ✔ Scalable architecture  
 
-> Project link can be added here once deployment is ready.
+> 
 
 ---
 
