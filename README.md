@@ -12,9 +12,9 @@
 I'm a passionate developer focused on building **scalable, user-first web applications** and exploring the exciting world of **AI & Machine Learning**.
 
 - 🎓 **B.Tech CSE (Data Science)**  
-- 🔭 Currently building **ChannelX — a real-time chat application**  
-- 🌱 Learning **Next.js, Node.js & scalable backend architecture**  
-- 🤖 Exploring **AI, ML, LLMs, Agents & RAG systems**  
+- 🔭 Learning & Building in **Frontend Development (React major)**  
+- 🌱 Exploring **Node.js, scalable backend architecture & full-stack workflow**  
+- 🤖 Curious about  **LLMs, Agents, RAG systems & the future of GenAI**  
 - 💡 Love solving problems through code & systems thinking  
 - 📫 Reach me: **akashtripathi.acad@gmail.com**
 
