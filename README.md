@@ -46,19 +46,6 @@ I'm a passionate developer focused on building **scalable, user-first web applic
 
 ---
 
-## 📌 Featured Project — ChannelX
-
-A real-time chat application designed to enhance:  
-✔ Realtime communication (Socket.io)  
-✔ Optimized frontend (Next.js)  
-✔ Secure backend (Node.js + Express)  
-✔ Modern UI + UX  
-✔ Scalable architecture  
-
-> 
-
----
-
 ## 📊 GitHub Analytics
 
 ### 🔥 Contribution Streak  
