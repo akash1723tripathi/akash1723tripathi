@@ -50,8 +50,9 @@ I'm a passionate developer focused on building **scalable, user-first web applic
 
 ### 🔥 Contribution Streak  
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=akash1723tripathi&theme=highcontrast&border_radius=5" />
+  <img src="https://github-readme-streak-stats-rust-sigma-85.vercel.app?user=akash1723tripathi&theme=dark-minimalist" />
 </p>
+
 
 ---
 
