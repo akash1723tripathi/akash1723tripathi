@@ -41,7 +41,7 @@ I'm a passionate developer focused on building **scalable, user-first web applic
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,python,mysql,mongodb,git,github,vercel" />
+  <img src="https://skillicons.dev/icons?i=cpp,html,css,js,ts,react,vite,tailwind,nodejs,express,prisma,postgres,mongodb,mysql,redux,git,github,postman,vscode,vercel,render" />
 </p>
 
 ---
