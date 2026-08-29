@@ -13,9 +13,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          user: akash1723tripathi
-          theme: github_dark
-          card_width: 460
-          exclude_repo: ""
+          USERNAME: akash1723tripathi
+          THEME: github_dark
