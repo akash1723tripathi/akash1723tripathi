@@ -67,9 +67,9 @@ A full-stack dev who ships production work for real clients, focused on building
  
 <table align="center">
 <tr>
-<td colspan="2" align="center">
+<!-- <td colspan="2" align="center">
 <img src="https://raw.githubusercontent.com/akash1723tripathi/akash1723tripathi/main/profile-summary-card-output/github_dark/0-profile-details.svg" width="100%"/>
-</td>
+</td> -->
 </tr>
 <tr>
 <td align="center" width="50%">
@@ -80,12 +80,12 @@ A full-stack dev who ships production work for real clients, focused on building
 </td>
 </tr>
 <tr>
-<td align="center" width="50%">
+<!-- <td align="center" width="50%">
 <img src="https://raw.githubusercontent.com/akash1723tripathi/akash1723tripathi/main/profile-summary-card-output/github_dark/1-repos-per-language.svg" width="100%"/>
 </td>
 <td align="center" width="50%">
 <img src="https://raw.githubusercontent.com/akash1723tripathi/akash1723tripathi/main/profile-summary-card-output/github_dark/4-productive-time.svg" width="100%"/>
-</td>
+</td> -->
 </tr>
 <tr>
 <td colspan="2" align="center">
